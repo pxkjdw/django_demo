@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3a5b6736-e98f-4423-a46b-0a17f1690644" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="3a5b6736-e98f-4423-a46b-0a17f1690644" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -66,7 +61,14 @@
       <option name="project" value="LOCAL" />
       <updated>1590027934550</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="测试PaCharm打开本项目可以使用git提交代码">
+      <created>1590028701234</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1590028701234</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -74,25 +76,25 @@
     <option name="LAST_COMMIT_MESSAGE" value="测试PaCharm打开本项目可以使用git提交代码" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="481" y="73" key="#Notifications" timestamp="1590028108664">
+    <state x="481" y="73" key="#Notifications" timestamp="1590028966931">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="481" y="73" key="#Notifications/0.0.1536.824@0.0.1536.824" timestamp="1590028108664" />
+    <state x="481" y="73" key="#Notifications/0.0.1536.824@0.0.1536.824" timestamp="1590028966931" />
     <state x="343" y="70" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1590028639921">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="343" y="70" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1590028639921" />
-    <state x="529" y="8" key="CommitChangelistDialog2" timestamp="1590027933516">
+    <state x="529" y="8" key="CommitChangelistDialog2" timestamp="1590028958362">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="529" y="8" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1590027933516" />
+    <state x="529" y="8" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1590028958362" />
     <state x="273" y="12" key="SettingsEditor" timestamp="1589896966711">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="273" y="12" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1589896966711" />
-    <state x="481" y="148" key="Vcs.Push.Dialog.v2" timestamp="1590028093536">
+    <state x="481" y="148" key="Vcs.Push.Dialog.v2" timestamp="1590028846279">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="481" y="148" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1590028093536" />
+    <state x="481" y="148" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1590028846279" />
   </component>
 </project>
